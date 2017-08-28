@@ -15,7 +15,7 @@ function sayHello (name) {
 // console.log(sayHello() + ' Cole');
 
 function setH1 (string) {
-    var h1 = document.querySelector('h1');
+    var h1 = document.getElementById('greeting');
     h1.innerText = string;
 };
 
