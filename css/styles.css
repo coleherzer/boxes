@@ -2,3 +2,8 @@ body {
     font-family: sans-serif;
     background: purple;
 }
+
+#greeting {
+    color: white;
+    font-size: 2em;
+}
